@@ -11,6 +11,7 @@ I also needed to create a checklist for the logic of the "Payment Method" and "A
 And test cases for the "Book" button.
 [(Checklists and Test-cases)](https://docs.google.com/spreadsheets/d/1nMFg7GtHdu-W6fCQI1vUX4a5YKIc9M8dg6jerMy_DLk/edit?usp=sharing)
 
-Then conduct testing according to the compiled documentation and, if necessary, create bug reports. 
+Then conduct testing according to the compiled documentation and, if necessary, create bug reports.
+[(Bug reports)](https://docs.google.com/spreadsheets/d/1nMFg7GtHdu-W6fCQI1vUX4a5YKIc9M8dg6jerMy_DLk/edit?usp=sharing)
 
 After that, create a testing report.
