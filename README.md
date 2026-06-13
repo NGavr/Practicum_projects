@@ -15,3 +15,4 @@ Then conduct testing according to the compiled documentation and, if necessary, 
 [(Bug reports)](https://docs.google.com/spreadsheets/d/1nMFg7GtHdu-W6fCQI1vUX4a5YKIc9M8dg6jerMy_DLk/edit?usp=sharing)
 
 After that, create a testing report.
+[(Testing Report)](https://docs.google.com/document/d/1-KptKEo4vr3vOrlJ5bz1zOzOKaDalt-B0XJZ_rT6ltA/edit?usp=sharing)
