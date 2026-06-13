@@ -14,7 +14,7 @@ And test cases for the "Book" button.
 Then conduct testing according to the compiled documentation and, if necessary, create bug reports.
 [(Bug reports)](https://docs.google.com/spreadsheets/d/1nMFg7GtHdu-W6fCQI1vUX4a5YKIc9M8dg6jerMy_DLk/edit?usp=sharing)
 
-After that, create a testing report.
+After that, I create a testing report.
 [(Testing Report)](https://docs.google.com/document/d/1-KptKEo4vr3vOrlJ5bz1zOzOKaDalt-B0XJZ_rT6ltA/edit?usp=sharing)
 
 ## :two: Testing the changes made and regression testing of the Yandex Metro mobile app.
@@ -25,3 +25,6 @@ conduct regression testing and ensure the new version is ready to be uploaded to
 
 I created a checklist for testing the new functionality. Then I created a checklist for regression testing. Then I tested the mobile app using Android Studio and filed bug reports as needed.
 [(Checklists_and_bug_reports)](https://docs.google.com/spreadsheets/d/1uzI3hUEAKM9-5rCasuHhV83xyZM02vCHo0P4JbVqpWM/edit?usp=sharing)
+
+After that, I create a testing report.
+[(Testing Report)](https://docs.google.com/document/d/1L2BOgU6o36rv7FRRw9mAwxDyxBrYQLGvkuz-0AfXR9Q/edit?usp=sharing)
