@@ -9,3 +9,4 @@ The developers added the ability to order carsharing to the app. I needed to cre
 
 I also needed to create a checklist for the logic of the "Payment Method" and "Add Card" windows.
 And test cases for the "Book" button.
+Then conduct testing according to the compiled documentation and, if necessary, create bug reports. After that, create a testing report.
