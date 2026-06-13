@@ -17,4 +17,11 @@ Then conduct testing according to the compiled documentation and, if necessary, 
 After that, create a testing report.
 [(Testing Report)](https://docs.google.com/document/d/1-KptKEo4vr3vOrlJ5bz1zOzOKaDalt-B0XJZ_rT6ltA/edit?usp=sharing)
 
-## :two: Testing the changes made and regression testing of the Yandex Metro mobile app
+## :two: Testing the changes made and regression testing of the Yandex Metro mobile app.
+I can't post the requirements because of an NDA.
+The Yandex Metro team refactored the Android mobile app, making changes to the code. Before releasing the new version, I first need to:
+test the affected parts of the product;
+conduct regression testing and ensure the new version is ready to be uploaded to the store. Based on the results of the tests, it is necessary to provide a testing report to the manager - Marisa.
+
+I created a checklist for testing the new functionality. Then I created a checklist for regression testing. Then I tested the mobile app using Android Studio and filed bug reports as needed.
+[(Checklists_and_bug_reports)](https://docs.google.com/spreadsheets/d/1uzI3hUEAKM9-5rCasuHhV83xyZM02vCHo0P4JbVqpWM/edit?usp=sharing)
