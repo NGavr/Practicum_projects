@@ -17,3 +17,4 @@ Then conduct testing according to the compiled documentation and, if necessary, 
 After that, create a testing report.
 [(Testing Report)](https://docs.google.com/document/d/1-KptKEo4vr3vOrlJ5bz1zOzOKaDalt-B0XJZ_rT6ltA/edit?usp=sharing)
 
+## :two: Testing the changes made and regression testing of the Yandex Metro mobile app
