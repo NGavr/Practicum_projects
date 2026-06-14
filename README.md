@@ -43,3 +43,9 @@ New functionality:
   I reviewed the requirements for the new backend functionality. I studied the API documentation in Apidoc.
 I created a checklist for verification.
 [(Checklist)](https://docs.google.com/spreadsheets/d/1SZRlkCnyQOPNthY2jHrp9cQsVupcSO3NOZnQgtD_JtU/edit?usp=sharing)
+
+I tested the API via Postman and filed bug reports where necessary.
+[(Bug-reports)](https://docs.google.com/document/d/1R5kF3aJ41zLE5ztmsMYRNbFbqxRf5exRfsavLo_OJxU/edit?usp=sharing)
+
+I have compiled a test report
+[(Report)](https://docs.google.com/document/d/1R5kF3aJ41zLE5ztmsMYRNbFbqxRf5exRfsavLo_OJxU/edit?usp=sharing)
