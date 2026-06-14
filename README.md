@@ -45,7 +45,7 @@ I created a checklist for verification.
 [(Checklist)](https://docs.google.com/spreadsheets/d/1SZRlkCnyQOPNthY2jHrp9cQsVupcSO3NOZnQgtD_JtU/edit?usp=sharing)
 
 I tested the API via Postman and filed bug reports where necessary.
-[(Bug-reports)](https://docs.google.com/document/d/1R5kF3aJ41zLE5ztmsMYRNbFbqxRf5exRfsavLo_OJxU/edit?usp=sharing)
+[(Bug-reports)](https://docs.google.com/spreadsheets/d/1Y3AhgVgf3HEdtdlP80GS1hs7BuELKkQrbokxTeEJQ9k/edit?usp=sharing)
 
 I have compiled a test report
 [(Report)](https://docs.google.com/document/d/1R5kF3aJ41zLE5ztmsMYRNbFbqxRf5exRfsavLo_OJxU/edit?usp=sharing)
