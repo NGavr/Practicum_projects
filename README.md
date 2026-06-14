@@ -28,3 +28,18 @@ I created a checklist for testing the new functionality. Then I created a checkl
 
 After that, I create a testing report.
 [(Testing Report)](https://docs.google.com/document/d/1L2BOgU6o36rv7FRRw9mAwxDyxBrYQLGvkuz-0AfXR9Q/edit?usp=sharing)
+
+## :three: Testing new functionality in the Yandex.Privalok API.
+I can't post the requirements because of an NDA.
+The developers have implemented new functionality in the Yandex.Privalok API. I tested the new version of the API.
+New functionality:
+- Working with kits: Add products to a kit using the POST handle /api/v1/kits/{id}/products.
+- Working with couriers: Check whether delivery is available via the "Privezhem Bystro" courier service and how much it costs. POST handle /fast-delivery/v3.1.1/calculate-delivery.xml.
+- Working with the shopping cart:
+    1). Get a list of products added to the cart. GET handle /api/v1/orders/:id;
+    2). Add products to the cart. PUT handle /api/v1/orders/:id;
+    3). Delete the cart. DELETE handle /api/v1/orders/:id.
+
+  I reviewed the requirements for the new backend functionality. I studied the API documentation in Apidoc.
+I created a checklist for verification.
+[(Checklist)](https://docs.google.com/spreadsheets/d/1SZRlkCnyQOPNthY2jHrp9cQsVupcSO3NOZnQgtD_JtU/edit?usp=sharing)
