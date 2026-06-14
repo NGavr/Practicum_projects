@@ -49,3 +49,11 @@ I tested the API via Postman and filed bug reports where necessary.
 
 I have compiled a test report
 [(Report)](https://docs.google.com/document/d/1R5kF3aJ41zLE5ztmsMYRNbFbqxRf5exRfsavLo_OJxU/edit?usp=sharing)
+
+## :four: Testing the Yandex.Samokat app as part of a graduation project
+I can't post the requirements because of an NDA.
+Documentation and mockups were reviewed in Figma. Checklists were created using test design techniques. Checks were optimized.
+[(Checklists_and_Testcases)](https://docs.google.com/spreadsheets/d/1_CMhzPszLLBF1xRG468CzXOGjkeNufFBHb8xdBkzXwo/edit?usp=drive_link)
+
+The web version of the application was tested and bug reports were filed. The mobile application was tested using Android Studio. The application API was tested using Postman, Apidoc, Cygwin64 Terminal, and SQL.
+[(Bug_Reports)](https://docs.google.com/spreadsheets/d/1-kzyLV0I1aYPa69NWzcHcjs8PL4lvhrpwW6Fi_0AmO4/edit?usp=drive_link)
